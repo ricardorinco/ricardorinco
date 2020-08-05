@@ -6,7 +6,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer
 
-- 😍 Buscando colaborar evoluir a cada dia mais
+- 😍 Buscando evoluir a cada dia
 - ☺️ Posso te ajudar com Angular
 - 🖥️ Minha stack: .Net, Angular e Typescript
 - 💬 Sobre mim: Cristão, observador do sábado, apaixonado por tecnologias e tento ser piloto no Forza

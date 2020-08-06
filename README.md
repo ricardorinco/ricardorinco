@@ -2,13 +2,13 @@
 
 # Ricardo Rinco
 
-### Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer
+## Olá pessoal 👋
+Sou FullStack Developer apaixonado por conhecer novas tecnologias e encarar novos desafios.
 
-- 😍 Buscando evoluir a cada dia
-- ☺️ Posso te ajudar com Angular
-- 🖥️ Minha stack: .Net, Angular e Typescript
-- 💬 Sobre mim: Cristão, observador do sábado, apaixonado por tecnologias e tento ser piloto no Forza
 
-[![Badge](https://img.shields.io/badge/CV-RicardoRinco-%8ACDEA?style=for-the-badge&logo=ghost)](https://ricardorinco.github.io/)
+- 😍 Buscando aprendizado e evolução a cada dia
+- ☺️ Posso te ajudar com .Net e Angular
+- 🖥️ Minhas stack's: .Net e Angular
+- 💬 Sobre mim: Cristão, observador do sábado, apaixonado por tecnologias e tentando ser um piloto de Forza
+
+###### "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna." João 3:16

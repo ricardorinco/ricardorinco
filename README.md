@@ -4,7 +4,7 @@
 
 Sou cristão, observador do sábado e desenvolvedor fullstack apaixonado por novas tecnologias e motivado a encarar novos desafios.
 
-- 👨🏻‍💻 Estou em busca constante pelo aprendizado
+- 👨🏻‍💻 Em busca constante pelo aprendizado
 - ⚙️ Minhas stack's: .Net e Angular
 
 ###### "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna." João 3:16

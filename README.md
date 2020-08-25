@@ -2,7 +2,7 @@
 
 # E aí pessoal 👋🏻
 
-Sou cristão, observador do sábado e desenvolvedor fullstack apaixonado por novas tecnologias e motivado a encarar novos desafios.
+Sou cristão, observador do sábado e desenvolvedor fullstack apaixonado por novas tecnologias e sempre motivado a encarar novos desafios.
 
 - 👨🏻‍💻 Em busca constante pelo aprendizado
 - ⚙️ Minhas stack's: .Net e Angular

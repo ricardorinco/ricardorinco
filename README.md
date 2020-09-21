@@ -2,7 +2,7 @@
 
 # E aí pessoal 👋🏻
 
-Cristão, observador do sábado e desenvolvedor .Net e Angular, ligado em novas novas tecnologias e sempre motivado para enfrentar novos novos desafios.
+Cristão, observador do sábado e desenvolvedor sempre ligado em novas novas tecnologias e motivado para enfrentar novos novos desafios.
 
 - 👨🏻‍💻 Busca constante pelo aprendizado
 - ⚙️ Stack's: .Net e Angular

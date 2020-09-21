@@ -2,9 +2,15 @@
 
 # E aí pessoal 👋🏻
 
-Sou cristão, observador do sábado e desenvolvedor fullstack apaixonado por novas tecnologias e sempre motivado a encarar novos desafios.
+Cristão, observador do sábado e desenvolvedor .Net e Angular, ligado em novas novas tecnologias e sempre motivado para enfrentar novos novos desafios.
 
-- 👨🏻‍💻 Em busca constante pelo aprendizado
-- ⚙️ Minhas stack's: .Net e Angular
+- 👨🏻‍💻 Busca constante pelo aprendizado
+- ⚙️ Stack's: .Net e Angular
+
+# Status
+
+![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoRinco&layout=compact&theme=vue)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RicardoRinco&theme=vue)
 
 ###### "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna." João 3:16

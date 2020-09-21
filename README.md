@@ -7,7 +7,7 @@ Cristão, observador do sábado e desenvolvedor sempre ligado em novas novas tec
 - 👨🏻‍💻 Busca constante pelo aprendizado
 - ⚙️ Stack's: .Net e Angular
 
-# Status
+# Stats
 
 ![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RicardoRinco&layout=compact&theme=vue)
 

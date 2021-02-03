@@ -2,7 +2,7 @@
 
 É um prazer ver você aqui!
 
-Sou Cristão, Observador do Sábado e Full Stack Developer, estou sempre ligado em novas tecnologias e motivado para novos desafios.
+Sou Cristão, Observador do Sábado e Full Stack Developer, estou sempre ligado e motivado a conhecer novas tecnologias.
 
 <img align="right" alt="GIF" src="https://github.com/ricardorinco/ricardorinco/blob/master/desk-setup.png?raw=true?raw=true" width="338" height="338" />
 

@@ -24,7 +24,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['.Net', 'Javascript', 'TypeScript'];
   databases  = ['SQL Server', 'MySQL', 'MongoDB', 'SQLite', 'Realm', 'PostgreSQL'];
-  frameworks = ['Angular', 'Ionic', 'Xamarin', 'EntityFramework', 'Dapper', 'GraphQL'];
+  frameworks = ['Angular', 'Ionic', 'Xamarin', 'EntityFramework', 'Dapper'];
 }
 ```
 

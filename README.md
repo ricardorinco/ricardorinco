@@ -1,5 +1,5 @@
 ```js
-import SoftwareDeveloper from 'ricardorinco';
+import { SoftwareDeveloper } from '@ricardorinco';
 ```
 
 # E aí 👋🏻

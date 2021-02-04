@@ -24,7 +24,7 @@ class Bio extends SoftwareDeveloper {
 - 🌱 No momento estou aprendendo *Programação Funcional*;
 - 🏹 Melhorando as habilidades em *Typescript* e *Angular*;
 - ⚙️ Minhas principais stack's são *.Net* e *Angular*;
-- 💬 Podemos conversar sobre *Fé*, *.Net*, *Angular*, *NFL*, *BTTF*, *LEGO* e muito mais...
+- 💬 Podemos conversar sobre *Fé*, *Tecnologia*, *NFL*, *BTTF* e muito mais...
 
 ## 💻 Techbio
 

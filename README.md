@@ -6,7 +6,7 @@ import { SoftwareDeveloper } from '@ricardorinco';
 
 Seja bem-vindo, é um prazer ter você aqui! 👨🏻‍🦲
 
-Sou **Cristão** em tempo integral, **Observador do Sábado** por amor e ~~**Backend Developer**~~ **Full Stack Developer** por paixão. Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e quando não estou aprendendo algo novo procuro me divertir nos autódromos virtuais.
+Sou **Cristão** em tempo integral, **Observador do Sábado** por amor e ~~**Desenvolvedor Backend**~~ **Desenvolvedor Full Stack** por paixão. Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e quando não estou aprendendo algo novo procuro me divertir nos autódromos virtuais.
 
 <img align="right" alt="Desk Setup" src="https://github.com/ricardorinco/ricardorinco/blob/master/imgs/desk-setup.png?raw=true" width="338" height="338" />
 

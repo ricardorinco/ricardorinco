@@ -6,14 +6,14 @@ import { SoftwareDeveloper } from '@ricardorinco';
 
 Seja bem-vindo, é um prazer ter você aqui! 👨🏻‍🦲
 
-Sou **Cristão** em tempo integral, **Observador do Sábado** por amor e ~~**Desenvolvedor Backend**~~ **Desenvolvedor Full Stack** por paixão. Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e quando não estou aprendendo algo novo procuro me divertir nos autódromos virtuais.
+Sou **Cristão** em tempo integral, **Observador do Sábado** por amor e **Desenvolvedor ~~Backend~~ Full Stack** por paixão. Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e quando não estou aprendendo algo novo procuro me divertir nos autódromos virtuais.
 
 <img align="right" alt="Desk Setup" src="https://github.com/ricardorinco/ricardorinco/blob/master/imgs/desk-setup.png?raw=true" width="338" height="338" />
 
-Entusiasta em *running* e *mountain bike*. Cresci assistindo a trilogia do **De Volta para o Futuro** e exercitando a minha criatividade na montagem de **LEGO**.
+Entusiasta em *running* e *mountain bike*. Cresci assistindo a trilogia **De Volta para o Futuro** e exercitando a minha criatividade na montagem de **LEGO**.
 
 ```js
-class Bio extends SoftwareDeveloper {
+export class Bio extends SoftwareDeveloper {
   name     = 'Ricardo Rinco';
   title    = 'Full Stack Software Developer';
   location = 'Jundiaí, SP';
@@ -32,7 +32,7 @@ class Bio extends SoftwareDeveloper {
 <img align="right" alt="Delorean Plate - 86" src="https://github.com/ricardorinco/ricardorinco/blob/master/imgs/bttf-plate-86.png?raw=true" width="127" height="67" />
 
 ```js
-class Skills extends SoftwareDeveloper {
+export class Skills extends SoftwareDeveloper {
   languages  = ['.Net', 'Javascript', 'TypeScript'];
   databases  = ['SQL Server', 'MySQL', 'MongoDB', 'SQLite'];
   frameworks = ['Angular', 'Ionic', 'Xamarin'];
